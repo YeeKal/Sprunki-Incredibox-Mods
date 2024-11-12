@@ -22,7 +22,10 @@ Explore the variety of Sprunki Incredibox mods included in this collection. Each
 | **Sprunki Phase 3**    |   ![https://www.spunki.games/sprunki-phase-3](https://cdn.spunki.games/innerface/sprunki-phase-3.png)  | [Play on Spunki.games](https://www.spunki.games/sprunki-phase-3)    | [mods/sprunki-phase-3.html](mods/sprunki-phase-3.html)       |
 | **Sprunki Phase 4**    |   ![https://www.spunki.games/sprunki-phase-4](https://cdn.spunki.games/innerface/sprunki-phase-4.png)  | [Play on Spunki.games](https://www.spunki.games/sprunki-phase-4)    | [mods/sprunki-phase-4.html](mods/sprunki-phase-4.html)       |
 | **Sprunked**    |   ![https://www.spunki.games/sprunked](https://cdn.spunki.games/innerface/sprunked.png)  | [Play on Spunki.games](http://www.spunki.games/sprunked)    | |
-| **Abgerny**    |   ![https://www.spunki.games/sprunki-phase-4](https://cdn.spunki.games/innerface/sprunki-phase-4.png)  | [Play on Spunki.games](https://www.spunki.games)    | [mods/abgerny.html](mods/abgerny.html)       |
+| **Sprunki Infected**    |   ![https://www.spunki.games/sprunki-infected](https://cdn.spunki.games/innerface/sprunki-infected.png)  | [Play on Spunki.games](http://www.spunki.games/sprunki-infected)    | |
+| **Sprunked**    |   ![https://www.spunki.games/sprunked](https://cdn.spunki.games/innerface/sprunked.png)  | [Play on Spunki.games](http://www.spunki.games/sprunked)    | |
+| **Sprunki Mustard**    |   ![https://www.spunki.games/sprunki-mustard](https://cdn.spunki.games/innerface/sprunki-mustard.png)  | [Play on Spunki.games](http://www.spunki.games/sprunki-mustard)    | |
+| **Sprunki Remastered**    |   ![https://www.spunki.games/sprunki-remastered](https://cdn.spunki.games/innerface/sprunki-remastered.png)  | [Play on Spunki.games](http://www.spunki.games/sprunki-remastered)    | |
 
 
 Visit [Spunki.games](https://www.spunki.games) to experience these mods directly online!
