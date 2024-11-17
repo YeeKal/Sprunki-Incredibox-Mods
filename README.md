@@ -27,6 +27,7 @@ Explore the variety of Sprunki Incredibox mods included in this collection. Each
 | **Sprunked**    |   ![https://www.spunki.games/sprunked](https://cdn.spunki.games/innerface/sprunked.png)  | [Play on Spunki.games](http://www.spunki.games/sprunked)    | |
 | **Sprunki Mustard**    |   ![https://www.spunki.games/sprunki-mustard](https://cdn.spunki.games/innerface/sprunki-mustard.png)  | [Play on Spunki.games](http://www.spunki.games/sprunki-mustard)    | |
 | **Sprunki Remastered**    |   ![https://www.spunki.games/sprunki-remastered](https://cdn.spunki.games/innerface/sprunki-remastered.png)  | [Play on Spunki.games](http://www.spunki.games/sprunki-remastered)    | |
+|**Sprunked 2**|![https://www.spunki.games/sprunked-2](https://cdn.spunki.games/innerface/sprunked-2.png)|[Play on Spunki.games](http://www.spunki.games/sprunked-2)||
 
 
 Visit [Spunki.games](https://www.spunki.games) to experience these mods directly online!
